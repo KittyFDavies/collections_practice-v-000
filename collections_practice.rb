@@ -57,11 +57,4 @@ def add_s(array)
       word << "s"
     end
   end
-  #array.map do |word|
-    #word << "s"
-  #end
-  #apart = array[1].split
-  #apart.pop
-  #array[1] = apart.join
-  #array
 end
